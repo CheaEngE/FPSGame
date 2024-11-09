@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\assets\\scripts\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\assets\\scripts\\projectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\uAC15\uC758\\itup \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\fpsgame\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\assets\\scripts\\lookcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lookcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\assets\\scripts\\gaugecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gaugecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:50:28.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:38:23.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LookCamera.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\LookCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LookCamera.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\LookCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LookCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:33:22.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GaugeColor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\GaugeColor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GaugeColor.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\GaugeColor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GaugeColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:21:30.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:32:05.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvxYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:36:56.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bomb.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\Bomb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bomb.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\Bomb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bomb.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:26:28.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectileWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\ProjectileWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectileWeapon.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\ProjectileWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectileWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:34:54.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:05:38.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uAC15\uC758\\ITUP \uC720\uB2C8\uD2F0 \uAC15\uC758 (\uAD6D\uBE44)\\\uC2E4\uC2B5\uD30C\uC77C\\FPSGame\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwJcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:50:56.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
